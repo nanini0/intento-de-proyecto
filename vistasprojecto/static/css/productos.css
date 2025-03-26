@@ -1,0 +1,23 @@
+
+/* Cambia el color de TODAS las letras dentro del body */
+body {
+    color: blue; /* Cambia a cualquier color (ej: red, #FF5733, rgb(255, 0, 0)) */
+    background-color: red; /* Mueve el fondo rojo aquí desde el HTML */
+}
+
+/* Cambia solo el color del título <h1> */
+.gg h1 {
+    color: white; /* Ejemplo: blanco */
+    background-color: black; /* Fondo negro para contrastar */
+    padding: 10px; /* Espaciado interno */
+}
+
+/* Cambia el color de los nombres de productos (<strong>) */
+.gg li strong {
+    color: green; /* Verde para los nombres */
+}
+
+/* Cambia el color de los precios y descripciones */
+.gg li {
+    color: purple; /* Púrpura para el texto general */
+}
